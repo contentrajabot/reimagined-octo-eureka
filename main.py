@@ -3,7 +3,7 @@ import json
 import subprocess
 from pyrogram.types.messages_and_media import message
 
-import 
+ 
 import pyrogram
 import logging
 from pyrogram import Client, filters
